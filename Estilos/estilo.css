@@ -1,0 +1,39 @@
+.pitusa{
+	padding-left: 29%;
+	padding-top: 60px;
+}
+a{
+color: #000;
+text-decoration: none;
+font-family: Gotham Book Regular;
+}
+.padding{
+	padding-left: 40%;
+}
+p{
+	padding-left: 1%; 
+	font-family: Gotham Book Regular;
+}
+.posicion{
+    display: inline-block;
+    position: relative;
+}
+.grilla {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    }
+    .grilla div:nth-child(even) { 
+}
+.grilla div:nth-child(odd) { 
+}
+i{
+	color:fff;
+}
+.m{
+    height: 500px; 
+	width: auto; 
+}
+.video{
+	width: 800px;
+	
+}
